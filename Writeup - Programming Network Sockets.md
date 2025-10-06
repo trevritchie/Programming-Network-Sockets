@@ -1,5 +1,7 @@
 # Programming Network Sockets 
 Trevor Ritchie
+Dr. Jacob Benjamin
+CSCI 632:  Data Communications and Networking
 
 ---
 
@@ -163,8 +165,8 @@ This approach allowed me to learn socket programming concepts more efficiently w
 
 ## Royal Tenenbaums Scene
 
-![[all_clients.png]]
+![All Clients View](screenshots/all_clients.png)
 
-![[server_view.png]]
+![Server View](screenshots/server_view.png)
 
 ---
