@@ -1,7 +1,7 @@
 # Programming Network Sockets 
-Trevor Ritchie
-Dr. Jacob Benjamin
-CSCI 632:  Data Communications and Networking
+Trevor Ritchie  
+Dr. Jacob Benjamin  
+CSCI 632:  Data Communications and Networking  
 
 ---
 
